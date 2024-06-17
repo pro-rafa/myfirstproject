@@ -8,12 +8,13 @@
 
 <br>
 <h1 align="center">
-    <img alt="" title="" src="assets/capa-readme.jpg" />
+   ![capa-readme](https://github.com/pro-rafa/myfirstproject/assets/172630364/5a16b901-e821-48ff-bb07-b1a0ae14cc68)
 </h1>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
+
 
 - HTML e CSS
 - JavaScript
