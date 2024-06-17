@@ -8,7 +8,7 @@
 
 <br>
 <h1 align="center">
-    <img alt="" title="Happy" src="./assets/assets/capa-readme.jpg" />
+    <img alt="" title="" src="assets/capa-readme.jpg" />
 </h1>
 
 ## 🚀 Tecnologias
