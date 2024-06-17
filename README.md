@@ -7,7 +7,6 @@
 </p>
 
    ![capa-readme](https://github.com/pro-rafa/myfirstproject/assets/172630364/0c2ae248-b384-4944-8506-5b65999ac5ea)
-roject/assets/172630364/5a16b901-e821-48ff-bb07-b1a0ae14cc68)
 
 
 ## 🚀 Tecnologias
