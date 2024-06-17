@@ -8,7 +8,7 @@
 
 <br>
 <h1 align="center">
-    <img alt="Projeto" title="Happy" src=".assets/capa-readme" />
+    <img alt="" title="Happy" src="./assets/assets/capa-readme.jpg" />
 </h1>
 
 ## 🚀 Tecnologias
@@ -29,13 +29,3 @@ Esse projeto foi realizado sob orientação da [Rocketseat](https://www.rocketse
 
 Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/community/file/1187422022288947321). Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
----
-
-<!--START_SECTION:footer-->
-
-<br />
-<br />
-  </a>
-</p>
-
-<!--END_SECTION:footer-->
